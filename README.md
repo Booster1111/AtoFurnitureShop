@@ -1,8 +1,6 @@
 # React eCommerce App
 
-An eCommerce mockup of a furniture shop developed with ReactJS.
-
-Demo: https://ecommerce.brant.work/
+An Atomotos mockup of a furniture shop developed with ReactJS.
 
 # Getting Started with Create React App
 
@@ -11,6 +9,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+![Untitled4](https://user-images.githubusercontent.com/89033750/161122183-a0c5c9c4-d899-4c4a-b81e-f9d64877a94b.png)
+![Untitled](https://user-images.githubusercontent.com/89033750/161122195-cf753922-7883-4237-9c74-677efa87080b.png)
+![Untitled1](https://user-images.githubusercontent.com/89033750/161122203-492f57aa-fc7f-47ad-8901-023b9e8e43aa.png)
+![Untitled2](https://user-images.githubusercontent.com/89033750/161122207-4b521f50-02f2-4855-a47d-21ed158a37cb.png)
+![Untitled3](https://user-images.githubusercontent.com/89033750/161122219-d114937e-c14e-4016-ac9c-e24853a90a67.png)
 
 ### `yarn start`
 
